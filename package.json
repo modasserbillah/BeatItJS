@@ -1,0 +1,11 @@
+{
+  "name": "beatit-js",
+  "version": "1.0.0",
+  "description": "Static html javascript site",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
